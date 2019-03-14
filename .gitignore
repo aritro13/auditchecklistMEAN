@@ -1,39 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# compiled output
-/Angular/auditchecklist/dist
-/Angular/auditchecklist/tmp
-/Angular/auditchecklist/out-tsc
-# Only exists if Bazel was run
-/Angular/auditchecklist/bazel-out
-
 # dependencies
 /Angular/auditchecklist/node_modules
 /NodeJS/auditchecklist/node_modules
-# profiling files
-/Angular/auditchecklist/chrome-profiler-events.json
-/Angular/auditchecklist/speed-measure-plugin.json
-
-
-
-# IDE - VSCode
-/Angular/auditchecklist/.vscode/*
-/Angular/auditchecklist/!.vscode/settings.json
-/Angular/auditchecklist/!.vscode/tasks.json
-/Angular/auditchecklist/!.vscode/launch.json
-/Angular/auditchecklist/!.vscode/extensions.json
-/Angular/auditchecklist/.history/*
-
-# misc
-/Angular/auditchecklist/.sass-cache
-/Angular/auditchecklist/connect.lock
-/Angular/auditchecklist/coverage
-/Angular/auditchecklist/libpeerconnection.log
-/Angular/auditchecklist/npm-debug.log
-/Angular/auditchecklist/yarn-error.log
-/Angular/auditchecklist/testem.log
-/Angular/auditchecklist/typings
-
-# System Files
-/Angular/auditchecklist/.DS_Store
-/Angular/auditchecklist/Thumbs.db
